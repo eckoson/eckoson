@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @eckoson
-- 👀 I’m interested in data science, and web development. 
+- 👀 I’m interested in linux, scripting and web development. 
 - 🌱 I’m currently learning python, Java and XML. 
-- 💞️ I’m looking to collaborate on PHP, HTML, CSS and Javascript projects. 
+- 💞️ I’m looking to collaborate on PHP, and JS projects. 
 - 📫 How to reach me ...
-  - Twitter: @eckoson
-  - Facebook: eckosongh
   - Email: eckoson (at) gmail dot com
 - 👆 Looking forward for your support and collaborations. 
 
